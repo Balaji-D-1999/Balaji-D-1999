@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Balaji D
-- 👀 I’m interested in Data science, Python related projects
-- 🌱 I’m currently learning Data science
+- 👀 I’m interested in Data science, Python related projects.
+- 🌱 I’m currently learning Data science.
 - 💞️ I’m looking to collaborate on Data science, Python related projects
 - 📫 How to reach me: balaji.dg99@gmail.com
 
